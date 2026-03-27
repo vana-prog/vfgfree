@@ -1,2 +1,1 @@
-# vfgfree
-Free VPN configurations from @VFGVPN
+Ну карочи тут есть ридми, но я нз зачем, так што наслаждайтись этим текстом
