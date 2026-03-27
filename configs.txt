@@ -7,7 +7,7 @@ vless://8d5c2801-e4b5-42db-a427-d8a1312c666e@212.233.88.112:443?security=reality
 
 vless://0a77a746-518e-4f13-b6c6-7c3989a79a43@89.167.73.199:443?security=reality&sni=metrika.yandex.ru&fp=chrome&pbk=T-Cg9CDkain2I9EYPBPQFJuS4vDigTqECYUP_6LTXjI&sid=7347e861d40e&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%8C%AAVFG%20VPN%20%7C%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA%20%40VFGvpn
 
-vless://68b053e1-2e92-4180-b3c9-9a5cb50642b7@185.86.147.221:4244?security=reality&encryption=none&flow=xtls-rprx-vision&type=tcp&fp=safari&pbk=wRSjB3MgSq4ZTB4XxtVtRtVE5otolCnBDjMPlWPPnnU&sni=ads.x5.ru&sid=abcd1234#%F0%9F%87%B3%F0%9F%87%B1%20CVEDC%20VPN%20%7C%20EU-5 # 🔒Обход белого списка | @VFGvpn
+vless://68b053e1-2e92-4180-b3c9-9a5cb50642b7@185.86.147.221:4244?security=reality&encryption=none&flow=xtls-rprx-vision&type=tcp&fp=safari&pbk=wRSjB3MgSq4ZTB4XxtVtRtVE5otolCnBDjMPlWPPnnU&sni=ads.x5.ru&sid=abcd1234#5 # 🔒Обход белого списка | @VFGvpn
 
 vless://029c403f-19aa-4210-8d49-8e8db39aecfd@ug02nvm1ra4.country-26.de-nfast.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=ru.de-nfast.com&spx=/#🇷🇺 RU-1 | @VFGvpn
 
